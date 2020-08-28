@@ -1,0 +1,189 @@
+{
+	"LANGUAGE_LIST_TB":
+	[
+		{
+			"LANG_CD": "A0001",
+			"en": "Language",
+			"kr": "언어선택"
+		},
+		{
+			"LANG_CD": "A0002",
+			"en": "English",
+			"kr": "영어"
+		},
+		{
+			"LANG_CD": "A0003",
+			"en": "Korean",
+			"kr": "한국어"
+		},
+		{
+			"LANG_CD": "A0004",
+			"en": "Select Language",
+			"kr": "언어를 선택하세요"
+		},
+		{
+			"LANG_CD": "A0005",
+			"en": "Save",
+			"kr": "저장"
+		},
+		{
+			"LANG_CD": "A0006",
+			"en": "Language",
+			"kr": "언어"
+		},
+		{
+			"LANG_CD": "A0007",
+			"en": "Barcode",
+			"kr": "바코드스캔"
+		},
+		{
+			"LANG_CD": "A0008",
+			"en": "List",
+			"kr": "리스트"
+		},
+		{
+			"LANG_CD": "A0009",
+			"en": "Map",
+			"kr": "지도"
+		},
+		{
+			"LANG_CD": "A0010",
+			"en": "Temp Save",
+			"kr": "중간저장"
+		},
+		{
+			"LANG_CD": "A0011",
+			"en": "Select DB",
+			"kr": "DB 조회"
+		},
+		{
+			"LANG_CD": "A0012",
+			"en": "DB C/I",
+			"kr": "DB 생성/삽입"
+		},
+		{
+			"LANG_CD": "A0013",
+			"en": "Down PDF",
+			"kr": "PDF 다운"
+		},
+		{
+			"LANG_CD": "A0014",
+			"en": "Navi",
+			"kr": "구글 네비"
+		},
+		{
+			"LANG_CD": "A0015",
+			"en": "Custom Info",
+			"kr": "고객정보"
+		},
+		{
+			"LANG_CD": "A0016",
+			"en": "Contract Info",
+			"kr": "계약정보"
+		},
+		{
+			"LANG_CD": "A0017",
+			"en": "A/S Hist",
+			"kr": "A/S이력"
+		},
+		{
+			"LANG_CD": "A0018",
+			"en": "Periodic inspection Hist",
+			"kr": "정기점검이력"
+		},
+		{
+			"LANG_CD": "A0019",
+			"en": "Periodic inspection Sched",
+			"kr": "정기점검스캐쥴"
+		},
+		{
+			"LANG_CD": "A0020",
+			"en": "Periodic Change Item",
+			"kr": "정기교환품목"
+		},
+		{
+			"LANG_CD": "A0021",
+			"en": "Recipient Hist",
+			"kr": "수금대상내역"
+		},
+		{
+			"LANG_CD": "A0022",
+			"en": "Water Intake Measure",
+			"kr": "구글 네비"
+		},
+		{
+			"LANG_CD": "A0023",
+			"en": "select",
+			"kr": "선택"
+		},
+		{
+			"LANG_CD": "CM0001",
+			"en": "Login",
+			"kr": "로그인"
+		},
+		{
+			"LANG_CD": "CM0002",
+			"en": "Language",
+			"kr": "언어선택"
+		},
+		{
+			"LANG_CD": "CM0003",
+			"en": "ID",
+			"kr": "아이디"
+		},
+		{
+			"LANG_CD": "CM0004",
+			"en": "PW",
+			"kr": "패스워드"
+		},
+		{
+			"LANG_CD": "CM0005",
+			"en": "Save ID",
+			"kr": "아이디저장"
+		},
+		{
+			"LANG_CD": "CM0013",
+			"en": "Sun",
+			"kr": "일"
+		},
+		{
+			"LANG_CD": "CM0007",
+			"en": "Mon",
+			"kr": "월"
+		},
+		{
+			"LANG_CD": "CM0008",
+			"en": "Tue",
+			"kr": "화"
+		},
+		{
+			"LANG_CD": "CM0009",
+			"en": "Wed",
+			"kr": "수"
+		},
+		{
+			"LANG_CD": "CM0010",
+			"en": "Thu",
+			"kr": "목"
+		},
+		{
+			"LANG_CD": "CM0011",
+			"en": "Fri",
+			"kr": "금"
+		},
+		{
+			"LANG_CD": "CM0012",
+			"en": "Sat",
+			"kr": "토"
+		}
+
+
+
+
+
+
+
+
+
+	]
+}

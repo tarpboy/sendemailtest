@@ -1,0 +1,150 @@
+{
+	"MENU_LIST_TB":
+	[
+		{
+			"SCREEN3_NM": "",
+			"SCREEN2_NM": "",
+			"SCREEN1_NM": "Sales Management",
+			"SCREEN3_CD": "",
+			"SCREEN2_CD": "",
+			"SCREEN1_CD": "100"
+		},
+		{
+			"SCREEN3_NM": "",
+			"SCREEN2_NM": "",
+			"SCREEN1_NM": "Stock Management",
+			"SCREEN3_CD": "",
+			"SCREEN2_CD": "",
+			"SCREEN1_CD": "200"
+		},
+		{
+			"SCREEN3_NM": "",
+			"SCREEN2_NM": "",
+			"SCREEN1_NM": "Search",
+			"SCREEN3_CD": "",
+			"SCREEN2_CD": "",
+			"SCREEN1_CD": "300"
+		},
+		{
+			"SCREEN3_NM": "",
+			"SCREEN2_NM": "",
+			"SCREEN1_NM": "Receiving Management",
+			"SCREEN3_CD": "",
+			"SCREEN2_CD": "",
+			"SCREEN1_CD": "400"
+		},
+		{
+			"SCREEN3_NM": "",
+			"SCREEN2_NM": "",
+			"SCREEN1_NM": "Etc.",
+			"SCREEN3_CD": "",
+			"SCREEN2_CD": "",
+			"SCREEN1_CD": "500"
+		},
+		{
+			"SCREEN3_NM": "",
+			"SCREEN2_NM": "Sales History",
+			"SCREEN1_NM": "Sales Management",
+			"SCREEN3_CD": "",
+			"SCREEN2_CD": "110",
+			"SCREEN1_CD": "100"
+		},
+		{
+			"SCREEN3_NM": "",
+			"SCREEN2_NM": "New Quotation",
+			"SCREEN1_NM": "Sales Management",
+			"SCREEN3_CD": "",
+			"SCREEN2_CD": "120",
+			"SCREEN1_CD": "100"
+		},
+		{
+			"SCREEN3_NM": "",
+			"SCREEN2_NM": "Stick Status",
+			"SCREEN1_NM": "Stock Management",
+			"SCREEN3_CD": "",
+			"SCREEN2_CD": "210",
+			"SCREEN1_CD": "200"
+		},
+		{
+			"SCREEN3_NM": "",
+			"SCREEN2_NM": "Request for transfer of stock",
+			"SCREEN1_NM": "Stock Management",
+			"SCREEN3_CD": "",
+			"SCREEN2_CD": "220",
+			"SCREEN1_CD": "200"
+		},
+		{
+			"SCREEN3_NM": "",
+			"SCREEN2_NM": "Transfer of stock for borrowing",
+			"SCREEN1_NM": "Stock Management",
+			"SCREEN3_CD": "",
+			"SCREEN2_CD": "230",
+			"SCREEN1_CD": "200"
+		},
+		{
+			"SCREEN3_NM": "",
+			"SCREEN2_NM": "Filter exchange scheduled quantity check",
+			"SCREEN1_NM": "Stock Management",
+			"SCREEN3_CD": "",
+			"SCREEN2_CD": "240",
+			"SCREEN1_CD": "200"
+		},
+		{
+			"SCREEN3_NM": "",
+			"SCREEN2_NM": "Insufficient filter quantitiy check",
+			"SCREEN1_NM": "Stock Management",
+			"SCREEN3_CD": "",
+			"SCREEN2_CD": "250",
+			"SCREEN1_CD": "200"
+		},
+		{
+			"SCREEN3_NM": "",
+			"SCREEN2_NM": "Customer check",
+			"SCREEN1_NM": "Search",
+			"SCREEN3_CD": "",
+			"SCREEN2_CD": "310",
+			"SCREEN1_CD": "300"
+		},
+		{
+			"SCREEN3_NM": "",
+			"SCREEN2_NM": "Service BOM part lookup",
+			"SCREEN1_NM": "Search",
+			"SCREEN3_CD": "",
+			"SCREEN2_CD": "320",
+			"SCREEN1_CD": "300"
+		},
+		{
+			"SCREEN3_NM": "",
+			"SCREEN2_NM": "Organization member inquiry",
+			"SCREEN1_NM": "Search",
+			"SCREEN3_CD": "",
+			"SCREEN2_CD": "330",
+			"SCREEN1_CD": "300"
+		},
+		{
+			"SCREEN3_NM": "",
+			"SCREEN2_NM": "List of receiving targets",
+			"SCREEN1_NM": "Receiving Management",
+			"SCREEN3_CD": "",
+			"SCREEN2_CD": "410",
+			"SCREEN1_CD": "400"
+		},
+		{
+			"SCREEN3_NM": "",
+			"SCREEN2_NM": "Card approval / cancellation",
+			"SCREEN1_NM": "Receiving Management",
+			"SCREEN3_CD": "",
+			"SCREEN2_CD": "410",
+			"SCREEN1_CD": "400"
+		},
+		{
+			"SCREEN3_NM": "",
+			"SCREEN2_NM": "Notice",
+			"SCREEN1_NM": "Etc.",
+			"SCREEN3_CD": "",
+			"SCREEN2_CD": "510",
+			"SCREEN1_CD": "500"
+		}
+
+	]
+}

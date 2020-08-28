@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="306dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        >
+
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:weightSum="30"
+                >
+
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="10"
+                    android:layout_marginLeft="5dp"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+                    <ImageButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        />
+
+
+                    <TextView
+                        android:id="@+id/CM0032"
+                        android:layout_width="90dp"
+                        android:layout_height="38dp"
+                        android:gravity="center_vertical"
+                        android:text="Confirm"
+                        android:tag="CM0032"
+                        android:textSize="16sp" />
+
+
+
+                </LinearLayout>
+
+
+
+
+            </LinearLayout>
+
+            <FrameLayout
+                android:layout_width="306dp"
+                android:layout_height="200dp">
+
+                <com.woongjin.sendemailtest.SignView
+                    android:id="@+id/v_popup_sign"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+                <ImageView
+                    android:id="@+id/sign_preview"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:clickable="true"
+                    android:scaleType="fitXY"
+                    android:visibility="gone"/>
+            </FrameLayout>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingTop="16dp"
+            android:paddingBottom="16dp"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            >
+
+            <Button
+                android:id="@+id/btn_popup_sign_initialize"
+                android:layout_width="141dp"
+                android:layout_height="46dp"
+                android:gravity="center"
+                android:text="Reset"
+                android:tag="CM0030"
+                android:textSize="16sp" />
+
+            <Button
+                android:id="@+id/btn_popup_sign_save"
+                android:layout_width="141dp"
+                android:layout_height="46dp"
+                android:layout_marginLeft="3dp"
+                android:gravity="center"
+                android:tag="CM0066"
+                android:text="OK"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>

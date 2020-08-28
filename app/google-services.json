@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "600294036080",
+    "firebase_url": "https://contractapp-56340.firebaseio.com",
+    "project_id": "contractapp-56340",
+    "storage_bucket": "contractapp-56340.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600294036080:android:8ac84b74a2f440dd5c5ab5",
+        "android_client_info": {
+          "package_name": "com.woongjin.sendemailtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600294036080-si3ctq3aafjneoci4bkbl5onru2ot6ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkv3M16QMymQJyiVnW85PAukHSr63vRlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600294036080-si3ctq3aafjneoci4bkbl5onru2ot6ob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600294036080:android:8edea954e05877ed5c5ab5",
+        "android_client_info": {
+          "package_name": "com.woongjin.sendemailtest_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600294036080-si3ctq3aafjneoci4bkbl5onru2ot6ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkv3M16QMymQJyiVnW85PAukHSr63vRlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600294036080-si3ctq3aafjneoci4bkbl5onru2ot6ob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
