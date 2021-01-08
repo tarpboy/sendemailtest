@@ -422,6 +422,13 @@ public class MainActivity extends AppCompatActivity {
                             html = html.replace("{HAP_P_PLACE}", contractData.get("HAP_P_PLACE"));
 
 
+                            //Jonathan 210108 근무시간 추가
+                            html = html.replace("{START_HOUR}", contractData.get("START_HOUR"));
+                            html = html.replace("{START_MIN}", contractData.get("START_MIN"));
+                            html = html.replace("{END_HOUR}", contractData.get("END_HOUR"));
+                            html = html.replace("{END_MIN}", contractData.get("END_MIN"));
+
+
 
                             //일급
                             if("CT0003".equals(contractData.get("CONT_NO")))
