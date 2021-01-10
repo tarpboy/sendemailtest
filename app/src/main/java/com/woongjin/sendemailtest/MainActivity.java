@@ -733,7 +733,8 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-        String toemailAddress = "payfun.kr@gmail.com";
+//        String toemailAddress = "payfun.kr@gmail.com";
+        String toemailAddress = "sales@payfun.kr";
         String msubject = "계약서 전송";
         String mmessage = "계약서 내용입니다.";
 
