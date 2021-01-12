@@ -321,6 +321,8 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+
+
         final ArrayList<HashMap<String, String>> mArrayList = new ArrayList<>();
 
         // Access a Cloud Firestore instance from your Activity
@@ -392,6 +394,27 @@ public class MainActivity extends AppCompatActivity {
                             String image_stamp = "data:image/png;base64," + imgageBase64_stamp;
 
 
+                            if("".equals(Define.nullCheck(contractData.get("START_HOUR"))))
+                            {
+                                contractData.put("START_HOUR", "9");
+                            }
+
+                            if("".equals(Define.nullCheck(contractData.get("START_MIN"))))
+                            {
+                                contractData.put("START_MIN", "00");
+                            }
+
+                            if("".equals(Define.nullCheck(contractData.get("END_HOUR"))))
+                            {
+                                contractData.put("END_HOUR", "18");
+                            }
+
+                            if("".equals(Define.nullCheck(contractData.get("END_MIN"))))
+                            {
+                                contractData.put("END_MIN", "00");
+                            }
+
+
 
 
 
@@ -423,10 +446,10 @@ public class MainActivity extends AppCompatActivity {
 
 
                             //Jonathan 210108 근무시간 추가
-                            html = html.replace("{START_HOUR}", contractData.get("START_HOUR"));
-                            html = html.replace("{START_MIN}", contractData.get("START_MIN"));
-                            html = html.replace("{END_HOUR}", contractData.get("END_HOUR"));
-                            html = html.replace("{END_MIN}", contractData.get("END_MIN"));
+                            html = html.replace("{START_HOUR}", Define.nullCheck(contractData.get("START_HOUR")));
+                            html = html.replace("{START_MIN}", Define.nullCheck(contractData.get("START_MIN")));
+                            html = html.replace("{END_HOUR}", Define.nullCheck(contractData.get("END_HOUR")));
+                            html = html.replace("{END_MIN}", Define.nullCheck(contractData.get("END_MIN")));
 
 
 

@@ -92,6 +92,7 @@ public class ActivityContractList extends AppCompatActivity implements View.OnCl
                 .whereEqualTo("NAME_PLACE", infoData.get("name"))
                 .whereEqualTo("TEL_PLACE", infoData.get("tel"))
                 .whereEqualTo("SEND_YN", "N")
+                .whereEqualTo("USE_YN", "Y")
                 .get()
                 .addOnCompleteListener(new OnCompleteListener<QuerySnapshot>() {
                     @Override
